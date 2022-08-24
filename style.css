@@ -64,7 +64,7 @@ header .navbar li a{
     font-size: 32px;
     color: var(--gri-1);
     font-weight: bolder;
-    transition: .5s;
+    transition: .3s;
 }
 
 
@@ -75,7 +75,7 @@ header .navbar li:hover a{
 }
 
 header .navbar li:not(:hover) a{
-    transition: .5s;
+    transition: .3s;
 
 }
 
@@ -98,7 +98,7 @@ header .icons a{
 }
 
 header .icons a:hover{
-    transition: .3s;
+    transition: .5s;
     transform: scale(1.3);
 }
 
